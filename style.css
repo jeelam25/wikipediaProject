@@ -5,6 +5,7 @@
     flex-direction:row;
     justify-content:center;
     text-content:center;
+    width:100vw;
 }
 
 .main-container {
